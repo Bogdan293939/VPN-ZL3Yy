@@ -1,6 +1,6 @@
 #profile-title: ZL3YY VPN⚡
 #profile-update-interval: 2
-#support-url: https://t.me/RKP_channel
+#support-url: https://t.me/News_ZL3YY
 #announce: Самый лутший VPN в России для обхода белых списков ⚡
 #subscription-userinfo: upload=0; download=0; total=0; expire=202555555555555
 
@@ -11,4 +11,7 @@ vless://437016d2-56fb-40ff-9220-e60d54fd5b57@pl.datanode-internal.net:443?securi
 vless://437016d2-56fb-40ff-9220-e60d54fd5b57@hole.datanode-internal.net:51760?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#🇷🇺 Мобильная связь #1
 vless://437016d2-56fb-40ff-9220-e60d54fd5b57@hole.datanode-internal.net:9443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#🇩🇪 Мобильная связь #2
 vless://437016d2-56fb-40ff-9220-e60d54fd5b57@hole.datanode-internal.net:8443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#🇵🇱 Мобильная связь #3
-vless://7f7372ef-37db-47ef-a980-e1642daaab7a@51.250.31.236:443?security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&path=%2F&host=finland.hsshsjsjsospsppsa.online&sni=finland.hsshsjsjsospsppsa.online&allowInsecure=1#🇷🇺 Россия LTE 
+vless://7f7372ef-37db-47ef-a980-e1642daaab7a@51.250.31.236:443?security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&path=%2F&host=finland.hsshsjsjsospsppsa.online&sni=finland.hsshsjsjsospsppsa.online&allowInsecure=1#🇷🇺 Россия LTE
+vless://7583a036-68c8-43a9-8bf6-4d27c984adf6@37.139.32.78:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#🇩🇪 LTE - Обход глушилок #1
+vless://7583a036-68c8-43a9-8bf6-4d27c984adf6@37.139.32.94:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=43dcff53849b81e6#🇩🇪 LTE - Обход глушилок #2
+vless://7583a036-68c8-43a9-8bf6-4d27c984adf6@37.139.32.66:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#🇩🇪 LTE - Обход глушилок #3
